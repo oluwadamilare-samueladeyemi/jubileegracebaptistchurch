@@ -40,7 +40,7 @@ const HeroSection = () => {
           <Button
             variant="outline"
             size="lg"
-            className="border-sanctuary-cream/40 text-sanctuary-cream hover:bg-sanctuary-cream/10 font-body text-base px-8 py-6 rounded-full"
+            className="border-sanctuary-cream/40 text-sanctuary-cream hover:bg-sanctuary-cream/5 hover:opacity-80 font-body text-base px-8 py-6 rounded-full"
             onClick={() => document.getElementById("prayer")?.scrollIntoView({ behavior: "smooth" })}
           >
             Submit a Prayer Request
