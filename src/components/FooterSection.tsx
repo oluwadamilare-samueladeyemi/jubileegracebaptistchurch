@@ -36,7 +36,7 @@ const FooterSection = () => (
             Follow us on Facebook for daily devotionals, announcements, and live service updates.
           </p>
           <a
-            href="https://www.facebook.com"
+            href="https://www.facebook.com/profile.php?id=100091257192704"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-sanctuary-cream/10 hover:bg-sanctuary-cream/15 text-sanctuary-cream font-body text-sm px-5 py-2.5 rounded-full transition-colors"
