@@ -35,8 +35,9 @@ const Navbar = () => {
       }`}
     >
       <div className="max-w-7xl mx-auto px-4 md:px-8 flex items-center justify-between">
-        <button onClick={() => handleClick("#")} className="font-heading text-sanctuary-cream text-xl font-bold">
-          JGBC
+        <button onClick={() => handleClick("#")} className="flex items-center gap-2">
+          <img src={logo} alt="JGBC Logo" className="w-10 h-10 rounded-full" />
+          <span className="font-heading text-sanctuary-cream text-xl font-bold hidden sm:inline">JGBC</span>
         </button>
 
         <div className="hidden md:flex items-center gap-8">

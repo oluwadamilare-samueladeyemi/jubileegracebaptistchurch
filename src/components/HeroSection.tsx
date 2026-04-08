@@ -26,7 +26,7 @@ const HeroSection = () => {
           Sanctuary of Praise and Prayer
         </p>
         <p className="font-body text-sanctuary-cream/70 text-base md:text-lg max-w-2xl mx-auto mb-10">
-          Join our vibrant community of believers in Ibadan as we worship, grow, and serve together in God's love.
+          Join our vibrant community of believers in across the globe as we worship, grow, and serve together in God's love.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button
