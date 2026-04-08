@@ -1,4 +1,4 @@
-import leadershipImg from "@/assets/leadership.jpg";
+import leadershipImg from "@/assets/pastoral-leadership.jpg";
 
 const LeadershipSection = () => (
   <section className="section-padding bg-card">
@@ -7,7 +7,7 @@ const LeadershipSection = () => (
         <div className="order-2 lg:order-1">
           <img
             src={leadershipImg}
-            alt="Jubilee Grace Baptist Church pastoral leadership team"
+            alt="Pastor Femi Adetayo and Professor Bola Adetayo"
             className="rounded-2xl shadow-xl w-full object-cover aspect-[16/10]"
             loading="lazy"
             width={1280}
@@ -20,11 +20,15 @@ const LeadershipSection = () => (
             Shepherds After <span className="text-sanctuary-warm">God's Heart</span>
           </h2>
           <p className="text-muted-foreground font-body text-base leading-relaxed mb-4">
-            Our dedicated pastoral team leads with humility, wisdom, and a deep commitment to God's Word. 
-            Together, they guide our congregation in spiritual growth, community service, and faithful worship.
+            <strong className="text-foreground">Pastor Femi Adetayo</strong> and <strong className="text-foreground">Professor Bola Adetayo</strong> lead 
+            Jubilee Grace Baptist Church with humility, wisdom, and a deep commitment to God's Word.
+          </p>
+          <p className="text-muted-foreground font-body text-base leading-relaxed mb-4">
+            Together, they shepherd the congregation in spiritual growth, community service, and faithful worship — 
+            guiding every believer toward a deeper relationship with Christ.
           </p>
           <p className="text-muted-foreground font-body text-base leading-relaxed">
-            Under their leadership, Jubilee Grace Baptist Church continues to be a beacon of hope and transformation 
+            Under their devoted leadership, Jubilee Grace Baptist Church continues to be a beacon of hope and transformation 
             in Ibadan and beyond.
           </p>
         </div>
