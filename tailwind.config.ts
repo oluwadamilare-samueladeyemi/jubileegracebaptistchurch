@@ -12,8 +12,19 @@ export default {
         "2xl": "1400px",
       },
     },
+    fontFamily: {
+      heading: ['Playfair Display', 'serif'],
+      body: ['DM Sans', 'sans-serif'],
+    },
     extend: {
       colors: {
+        sanctuary: {
+          deep: "hsl(var(--sanctuary-deep))",
+          warm: "hsl(var(--sanctuary-warm))",
+          gold: "hsl(var(--sanctuary-gold))",
+          cream: "hsl(var(--sanctuary-cream))",
+          dark: "hsl(var(--sanctuary-dark))",
+        },
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
