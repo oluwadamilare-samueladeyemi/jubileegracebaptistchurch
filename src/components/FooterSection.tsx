@@ -5,7 +5,7 @@ const FooterSection = () => (
     <div className="max-w-7xl mx-auto">
       <div className="grid md:grid-cols-3 gap-10 mb-12">
         <div>
-          <h3 className="font-heading text-2xl font-bold text-sanctuary-cream mb-2">Jubilee Grace</h3>
+          <h3 className="font-heading text-2xl font-bold text-sanctuary-cream mb-2">Jubilee Grace Baptist Church</h3>
           <p className="font-heading text-sm italic text-sanctuary-cream/60 mb-4">Sanctuary of Praise and Prayer</p>
           <p className="text-sanctuary-cream/50 font-body text-sm leading-relaxed">
             A vibrant Baptist community in Ibadan committed to worship, prayer, and reaching the lost with the love of Christ.
