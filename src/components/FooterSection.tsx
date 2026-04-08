@@ -15,17 +15,17 @@ const FooterSection = () => (
         <div>
           <h4 className="font-heading text-lg font-semibold text-sanctuary-cream mb-4">Contact Us</h4>
           <div className="space-y-3">
-            <a href="#" className="flex items-center gap-3 text-sanctuary-cream/60 hover:text-sanctuary-gold font-body text-sm transition-colors">
+            <a href="https://maps.google.com/?q=Opposite+Command+Secondary+School,+Apata,+Ibadan,+Oyo+State,+Nigeria" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-sanctuary-cream/60 hover:text-sanctuary-gold font-body text-sm transition-colors">
               <MapPin className="w-4 h-4 shrink-0" />
-              <span>Ibadan, Oyo State, Nigeria</span>
+              <span>Opposite Command Secondary School, Apata, Ibadan, Oyo State, Nigeria</span>
             </a>
-            <a href="tel:+2340000000000" className="flex items-center gap-3 text-sanctuary-cream/60 hover:text-sanctuary-gold font-body text-sm transition-colors">
+            <a href="https://wa.me/2349129104192" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-sanctuary-cream/60 hover:text-sanctuary-gold font-body text-sm transition-colors">
               <Phone className="w-4 h-4 shrink-0" />
-              <span>+234 000 000 0000</span>
+              <span>+234 912 910 4192</span>
             </a>
-            <a href="mailto:info@jubileegrace.org" className="flex items-center gap-3 text-sanctuary-cream/60 hover:text-sanctuary-gold font-body text-sm transition-colors">
+            <a href="mailto:jubileegracebaptistchurch@gmail.com" className="flex items-center gap-3 text-sanctuary-cream/60 hover:text-sanctuary-gold font-body text-sm transition-colors">
               <Mail className="w-4 h-4 shrink-0" />
-              <span>info@jubileegrace.org</span>
+              <span>jubileegracebaptistchurch@gmail.com</span>
             </a>
           </div>
         </div>
