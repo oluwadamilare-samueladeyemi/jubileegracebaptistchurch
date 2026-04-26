@@ -56,7 +56,7 @@ const HeroSection = () => {
         </p>
         <h1 className="font-heading text-4xl md:text-6xl lg:text-7xl font-bold text-sanctuary-cream leading-tight mb-4">
           Jubilee Grace
-          <span className="block text-gradient-gold">Baptist Church</span>
+          <span className="block text-gradient-gold text-purple-900">Baptist Church</span>
         </h1>
         <p className="font-heading text-xl md:text-2xl italic text-sanctuary-cream/80 mb-8">
           Sanctuary of Praise and Prayer
